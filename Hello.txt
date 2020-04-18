@@ -4,3 +4,8 @@ function 2();
 function 1(){
   sout;
 }
+
+function 2(){
+
+ sout(2);
+}
