@@ -1,5 +1,16 @@
-asdalsdhldfhaljfhadkfjhad
-sdfasdfasdfsadfaa
-sadfasdf
-asdfasdfhfgjg
-ghjfhjfghj
+function 1();
+function 2();
+function 3();
+function 4();
+
+function 1(){
+  sout(1);
+}
+
+function 2(){
+  sout(2);
+}
+
+function 3(){
+  new function;
+}
