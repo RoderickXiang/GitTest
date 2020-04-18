@@ -1,10 +1,10 @@
-
+function 1();
+function 2();
 
 function 1(){
   sout(1);
 }
 
 function 2(){
-
- sout(2);
+  sout(2);
 }
