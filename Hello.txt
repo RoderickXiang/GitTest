@@ -1,8 +1,8 @@
 function 1();
-function 2();
+function A();
 
 function 1(){
-  sout;
+  sout(1);
 }
 
 function 2(){
