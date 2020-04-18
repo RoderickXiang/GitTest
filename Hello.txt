@@ -14,3 +14,7 @@ function 2(){
 function 3(){
   new function;
 }
+
+function 4(){
+  sout(4);
+}
