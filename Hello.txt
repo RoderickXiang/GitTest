@@ -1,5 +1,4 @@
-function 1();
-function A();
+
 
 function 1(){
   sout(1);
