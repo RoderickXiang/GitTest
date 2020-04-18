@@ -1,3 +1,6 @@
-市场上出售
-123456
 function 1();
+function 2();
+
+function 1(){
+  sout;
+}
